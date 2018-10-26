@@ -11,7 +11,7 @@ package code_world_i;
 
 import java.util.Scanner;
 
-public class prog1 {
+public class Prog1 {
 	
 	public static void main(String[] args) {
 		
